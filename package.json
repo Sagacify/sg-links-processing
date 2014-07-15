@@ -1,0 +1,31 @@
+{
+	"name": "sg-links-processing",
+	"description": "Sagacify Links Processing",
+	"version": "0.0.1",
+	"private": true,
+	"author": "Sagacify (https://github.com/Sagacify)",
+	"engines": {
+		"node": "latest"
+	},
+	"main": "lib/LinkService",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Sagacify/sg-links-processing.git"
+	},
+	"dependencies": {
+		"async": "latest",
+		"node-uuid": "latest",
+		"tmp": "latest",
+		"mime": "latest",
+		"mv": "latest",
+		"unzip": "latest",
+		"adm-zip": "latest",
+		"tar": "latest",
+		"fs-extra": "latest",
+
+		"node-lib": "git+ssh://git@github.com:Sagacify/node-lib.git#worker",
+		"sg-messaging-server": "git+ssh://git@github.com:Sagacify/sg-messaging-server.git",
+		"sg-files-system": "git+ssh://git@github.com:Sagacify/sg-files-system.git",
+		"sg-files-processing": "git+ssh://git@github.com:Sagacify/sg-files-processing.git"
+	}
+}
