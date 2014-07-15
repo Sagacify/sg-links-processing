@@ -14,14 +14,11 @@
 	},
 	"dependencies": {
 		"async": "latest",
-		"node-uuid": "latest",
 		"tmp": "latest",
-		"mime": "latest",
-		"mv": "latest",
-		"unzip": "latest",
-		"adm-zip": "latest",
-		"tar": "latest",
-		"fs-extra": "latest",
+		"cheerio": "latest",
+		"request": "latest",
+
+		"webshot": "git+ssh://git@github.com:skyless/node-webshot.git",
 
 		"node-lib": "git+ssh://git@github.com:Sagacify/node-lib.git#worker",
 		"sg-messaging-server": "git+ssh://git@github.com:Sagacify/sg-messaging-server.git",
