@@ -13,11 +13,10 @@
 		"url": "https://github.com/Sagacify/sg-links-processing.git"
 	},
 	"dependencies": {
-		"async": "latest",
-		"tmp": "latest",
-		"cheerio": "latest",
-		"request": "latest",
-
+		"async": "~0.9.0",
+		"tmp": "~0.0.24",
+		"cheerio": "~0.17.0",
+		"request": "^2.40.0",
 		"html-entities": "^1.1.0",
 
 		"webshot": "git+ssh://git@github.com:skyless/node-webshot.git",
