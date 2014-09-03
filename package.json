@@ -17,7 +17,6 @@
 		"cheerio": "~0.17.0",
 		"request": "^2.40.0",
 
-		"html-entities": "^1.1.0",
 		"type-is": "1.4.0",
 
 		"webshot": "git+ssh://git@github.com:skyless/node-webshot.git",
