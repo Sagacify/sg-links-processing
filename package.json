@@ -18,6 +18,7 @@
 		"request": "^2.40.0",
 		"type-is": "^1.4.0",
 		"webshot": "~0.15.3",
+		"tough-cookie": "~0.12.1",
 
 		"node-lib": "git+ssh://git@github.com:Sagacify/node-lib.git#worker",
 		"sg-messaging-server": "git+ssh://git@github.com:Sagacify/sg-messaging-server.git",
