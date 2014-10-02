@@ -21,7 +21,6 @@
 
 		"node-lib": "git+ssh://git@github.com:Sagacify/node-lib.git#worker",
 		"sg-messaging-server": "git+ssh://git@github.com:Sagacify/sg-messaging-server.git",
-		"sg-files-system": "git+ssh://git@github.com:Sagacify/sg-files-system.git",
-		"sg-files-processing": "git+ssh://git@github.com:Sagacify/sg-files-processing.git"
+		"sg-files-system": "git+ssh://git@github.com:Sagacify/sg-files-system.git"
 	}
 }
