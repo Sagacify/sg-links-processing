@@ -19,8 +19,8 @@
 		"type-is": "^1.4.0",
 		"webshot": "~0.15.3",
 
-		"node-lib": "git+ssh://git@github.com:Sagacify/node-lib.git#worker",
-		"sg-messaging-server": "git+ssh://git@github.com:Sagacify/sg-messaging-server.git",
-		"sg-files-system": "git+ssh://git@github.com:Sagacify/sg-files-system.git"
+		"node-lib": "git+https://github.com/sagacify/node-lib.git#worker",
+		"sg-messaging-server": "git+https://github.com/sagacify/sg-messaging-server.git",
+		"sg-files-system": "git+https://github.com/sagacify/sg-files-system.git"
 	}
 }
